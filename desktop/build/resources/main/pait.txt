@@ -1,0 +1,54 @@
+pait.png
+size: 62, 231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t0nks 1
+  rotate: false
+  xy: 0, 0
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+t0nks 2
+  rotate: false
+  xy: 0, 33
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tanks 1
+  rotate: false
+  xy: 0, 66
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tanks 2
+  rotate: false
+  xy: 0, 99
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tanks 3
+  rotate: false
+  xy: 0, 132
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tanks 4
+  rotate: false
+  xy: 0, 165
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tnks 1
+  rotate: false
+  xy: 0, 198
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
